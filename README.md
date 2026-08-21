@@ -52,10 +52,6 @@ Result Analysis
 
 https://public.tableau.com/views/IBM_Project_17847153703030/Home?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-## Project Report
-
-View Project Report in repository
-
 ## Author
 
 Sahani Kartik
